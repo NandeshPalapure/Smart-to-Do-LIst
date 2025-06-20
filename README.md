@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Smart To-Do List Manager (Python Project)
 
 ## 📌 Objective
@@ -50,3 +51,6 @@ It allows users to manage their daily tasks with the following features:
 =======
 # Smart-to-Do-LIst
 >>>>>>> dd7a655f33ff7a19545fe43b9d7573a0cf
+=======
+# Smart-to-Do-LIst
+>>>>>>> e1d67bc170f242d8a4e88f5676ec57449902dc0d
