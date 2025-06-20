@@ -74,28 +74,3 @@ It allows users to manage their daily tasks with the following features:
 7. Exit
 ![alt text](image-7.png)
  
-  
-=======
-   ![alt text](image-2.png)
-   
-3. Mark Task as Completed
-   ![alt text](image-1.png)
-   
-5. Delete Task
-   ![alt text](image-3.png)
-   
-7. View All Tasks
-  ![alt text](image-4.png)
-
-9. Filter Tasks
-  ![alt text](image-5.png)
-
-11. Search Task by Title or Keyword
- ![alt text](image-6.png)
-
-13. Exit
-  ![alt text](image-7.png)
-   Enter your choice (1-7):
-=======
->>>>>>> 56c0ed11b88dc5784fc1e02cdb0885aba83552c7
-
