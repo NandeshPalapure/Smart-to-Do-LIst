@@ -1,0 +1,14 @@
+====== Smart To-Do List Manager ======
+1. Add Task
+2. Mark Task as Completed
+3. Delete Task
+4. View All Tasks
+5. Filter Tasks
+6. Exit
+Enter your choice (1-6): 1
+
+Enter Task Title: Python Assignment
+Enter Task Description: Complete To-Do List Manager
+Enter Due Date (YYYY-MM-DD): 2025-06-25
+Enter Priority (High/Medium/Low): High
+Task added successfully!

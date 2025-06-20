@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "Title": "Python Assignment",
+        "Description": "Complete To-Do List Manager Project",
+        "Due Date": "2025-06-22",
+        "Priority": "High",
+        "Status": "Pending",
+        "Created At": "2025-06-20 10:00:00",
+        "Completed At": ""
+    },
+    {
+        "ID": 2,
+        "Title": "Grocery Shopping",
+        "Description": "Buy vegetables and fruits",
+        "Due Date": "2025-06-18",
+        "Priority": "Medium",
+        "Status": "Overdue",
+        "Created At": "2025-06-15 15:30:00",
+        "Completed At": ""
+    },
+    {
+        "ID": 3,
+        "Title": "Pay Electricity Bill",
+        "Description": "Pay before due date",
+        "Due Date": "2025-06-19",
+        "Priority": "High",
+        "Status": "Completed",
+        "Created At": "2025-06-12 09:00:00",
+        "Completed At": "2025-06-18 18:45:00"
+    },
+    {
+        "ID": 4,
+        "Title": "Read Book",
+        "Description": "Read 50 pages of 'Atomic Habits'",
+        "Due Date": "2025-06-23",
+        "Priority": "Low",
+        "Status": "Pending",
+        "Created At": "2025-06-20 11:15:00",
+        "Completed At": ""
+    }
+]
