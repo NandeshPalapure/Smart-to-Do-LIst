@@ -46,6 +46,7 @@ It allows users to manage their daily tasks with the following features:
 ## Sample Menu:
 
 ![alt text](image.png)
+<<<<<<< HEAD
 
 ---
 
@@ -70,3 +71,5 @@ It allows users to manage their daily tasks with the following features:
 7. Exit
   ![alt text](image-7.png)
    Enter your choice (1-7):
+=======
+>>>>>>> 7fab8f9af575550fbceffcbbcb1c596305fc77ba
