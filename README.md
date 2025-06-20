@@ -57,19 +57,21 @@ It allows users to manage their daily tasks with the following features:
 ====== Smart To-Do List Manager ======
 
 1. Add Task
-   ![alt text](image-2.png)
+![alt text](image-1.png)
+   
 2. Mark Task as Completed
-   ![alt text](image-1.png)
+  ![alt text](image-2.png)
 3. Delete Task
-   ![alt text](image-3.png)
+  ![alt text](image-3.png)
 4. View All Tasks
   ![alt text](image-4.png)
 5. Filter Tasks
-  ![alt text](image-5.png)
+ ![alt text](image-5.png)
 6. Search Task by Title or Keyword
- ![alt text](image-6.png)
+![alt text](image-6.png)
+
 7. Exit
-  ![alt text](image-7.png)
-   Enter your choice (1-7):
-=======
->>>>>>> 7fab8f9af575550fbceffcbbcb1c596305fc77ba
+![alt text](image-7.png)
+ 
+  
+
